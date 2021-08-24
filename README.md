@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @pradptilama
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-pradptilama/pradptilama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+size (400, 400);
+//noStroke;
+ellipse (200, 240, 90, 90);
+ellipse (200, 180, 70, 70);
+ellipse (200, 134, 50, 50);
+fill (#02040A);
+ellipse (210, 130, 6, 6);
+ellipse (190, 130, 6, 6);
+ellipse (200, 145, 15, 10);
+fill (#F27F27);
+triangle (203, 130, 205, 135, 150, 140);
